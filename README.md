@@ -7,4 +7,4 @@ There are commands aka RegEx that can act as placeholders or make grep search fo
 
 ### RegEx
 
-I implement the following regex: `\`, which is a nullifier of other regex, 
+I implement the following regex: `\`, which is a nullifier of other special operators, '+', which is a special operator that searches and nullifies duplicates following the character, '.', which acts as a placeholder for any character, and '?', which allows either 0 or 1 duplicates to follow the character.
